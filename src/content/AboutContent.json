@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Fast, Accurate & Human",
+  "text": "Amity has the highest resolution rate in the market because it can actually do anything a human agent can do - learn how a problem was solved in the past, accessing various sources and taking actions to solve user problems.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Amity?",
+      "content": "Developed by experienced engineers and AI experts for maximum accuracy and safety at scale - ask clarifying questions, avoid off-topic answers and seamlessly transferring to human agents",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why Amity Chatbots?",
+      "content": "Our AI chatbots manage complex workflows in your business like conversing with partners, couriers and other departments to achieve end-to-end resolution.",
       "icon": "notes.svg"
     }
   ]
