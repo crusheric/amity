@@ -51,13 +51,6 @@ const Home = () => {
         icon="waving.svg"
         id="producttelegram"
       />
-      <ContentBlock
-        direction="right"
-        title={ProductContentTelegram.title}
-        content={ProductContentTelegram.text}
-        icon="waving.svg"
-        id="product"
-      />
       <Contact
         title={ContactContent.title}
         content={ContactContent.text}
